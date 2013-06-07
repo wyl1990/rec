@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+
+PrintStr @ 1
